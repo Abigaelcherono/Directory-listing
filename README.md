@@ -25,3 +25,37 @@ Navigate to project folder:
 bash
 cd project-folder
 
+run
+python server.py
+
+open web server
+http://localhost:8000
+
+ Common Issues
+Python not recognized
+
+Reinstall Python and check "Add to PATH".
+
+Port already in use
+
+Change PORT value in server.py
+
+
+AI Prompt Reference
+
+Example prompts:
+
+"Create a simple Python HTTP server example"
+
+"How to run Python server locally"
+
+"Common beginner Python setup errors"
+
+AI helped with setup and debugging.
+
+
+References
+
+Python Official Docs
+
+Real Python Tutorials
